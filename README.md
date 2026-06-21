@@ -280,9 +280,3 @@ The Credit Card Fraud Detection System helps organizations:
 By combining EDA, Linear Regression, and Interactive Dashboards, the system provides valuable insights for fraud analysis and decision-making.
 
 ---
-
-## AUTHOR
-
-Credit Card Fraud Detection System using EDA, Linear Regression & Dashboard Visualization
-
-Data Analytics | Machine Learning | Fraud Detection
