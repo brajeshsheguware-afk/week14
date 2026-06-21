@@ -155,28 +155,39 @@ Correlation and relationship analysis are performed between:
 ### Bar Charts
 
 * Fraud vs Normal Transaction Distribution
+<img width="444" height="377" alt="image" src="https://github.com/user-attachments/assets/b0e82fcb-0fbf-40db-bf05-6c54765a1b03" />
 
 ### Histograms
 
 * Transaction Amount Distribution
+<img width="554" height="377" alt="image" src="https://github.com/user-attachments/assets/1a7e01f1-90a1-46e6-b938-4d0732596121" />
+
 
 ### Scatter Plots
 
 * Time vs Amount
+<img width="567" height="374" alt="image" src="https://github.com/user-attachments/assets/6d2a8788-28c9-48ad-a547-fe897fd18f2d" />
+
 
 ### Box Plots
 
 * Fraud vs Transaction Amount
 
+<img width="570" height="373" alt="image" src="https://github.com/user-attachments/assets/3c873b6d-e021-4e4b-a688-1b74a98488d5" />
+
+
 ### Heatmaps
 
 * Correlation Analysis of Features
+<img width="885" height="673" alt="image" src="https://github.com/user-attachments/assets/d7893273-ad29-4b65-88e8-633a5c4ce02d" />
+
 
 ---
 
 ## RISK ANALYSIS
 
 Transactions are categorized into risk levels based on transaction amount.
+<img width="494" height="377" alt="image" src="https://github.com/user-attachments/assets/3dd807c0-a9bb-4825-b301-c051b4e51714" />
 
 ### Low Risk
 
@@ -244,10 +255,19 @@ The project includes an interactive dashboard with:
 ### Interactive Visualizations
 
 * Fraud Distribution
+<img width="1793" height="449" alt="image" src="https://github.com/user-attachments/assets/3c8499fb-4817-4572-bcd1-db64957664ec" />
 * Transaction Amount Trends
+<img width="1813" height="451" alt="image" src="https://github.com/user-attachments/assets/b99f6209-b4c9-4ee0-9a61-9a376a4735dc" />
+
 * Fraud Comparison
+<img width="1765" height="421" alt="image" src="https://github.com/user-attachments/assets/ab356f2d-0d94-46f2-ba6e-69c544b690fd" />
+
 * Correlation Heatmap
+<img width="1802" height="442" alt="image" src="https://github.com/user-attachments/assets/38317e26-8df3-4a87-834e-8598507493b6" />
+
 * Risk Level Distribution
+<img width="1769" height="437" alt="image" src="https://github.com/user-attachments/assets/a2be0b52-38d1-46ec-a528-a7da3304b427" />
+
 
 ### Dashboard Benefits
 
